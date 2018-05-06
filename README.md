@@ -1,4 +1,4 @@
-# catch-of-the-day
+# Catch-Of-The-Day
 **This is my official website of a seafood restaurant.**
 
 ## Preview
