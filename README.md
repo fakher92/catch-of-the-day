@@ -37,7 +37,7 @@ After downloading, simply edit the JS files included with the template in your f
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/fakher92/catch-of-the-day/issues) here on GitHub
+Have a bug or an issue with this project? [Open a new issue](https://github.com/fakher92/catch-of-the-day/issues) here on GitHub
 
 ## About
 
